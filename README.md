@@ -6,7 +6,7 @@
 使用した計算環境（一部）は下記です。その他の環境では動作確認しておりません。\
 Python version: 3.12.12\
 NumPy version: 2.0.2\
-Pandas version: 2.2.2\パンダのバージョン: 2.2.2\
+Pandas version: 2.2.2\
 Psi4 version: 1.10
 
 
