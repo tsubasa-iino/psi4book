@@ -2,7 +2,7 @@
 
 
 本レポジトリは，下記書籍サポートサイトである[このレポジトリ](https://github.com/hidt4/python-compchem-book/tree/d14d168265de99fdaa584681018d5a5fc4efa8de)をインポートしたものです（フォークではない）。\
-2026.02.01時点でのGoogle ColabランタイムバージョンでJupyter Notebookを実行するために，.ipynbファイルのコード改変を行いました。\
+2026.02.01時点でのGoogle ColabランタイムバージョンでNotebookを実行するために，.ipynbファイル群のみコード改変を行いました。\
 使用した計算環境（一部）は下記です。その他の環境では動作確認しておりません。\
 Python version: 3.12.12\
 NumPy version: 2.0.2\
